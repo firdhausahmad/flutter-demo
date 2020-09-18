@@ -1,3 +1,3 @@
-# Demo
+# Apps From Scratch | Flutter Whip Operational App
 
-Description here.
+Clone this repo and contact me via telegram +60123798441.
